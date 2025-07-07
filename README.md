@@ -41,8 +41,11 @@ Through this comprehensive course, I gained knowledge and practical experience i
 
 ### iv. Supervisor's Information
 **Course Supervisor:** Razorshi Prozzwal Talukder
+
 **Position:** Lecturer
+
 **Institution:** North East University Bangladesh
+
 **Department:** Computer Science and Engineering (CSE)
 
 ## Repository Structure
