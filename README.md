@@ -72,16 +72,16 @@ This repository contains three main components:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/AI-Course.git
+git clone https://github.com/chirontorudrapaul/AI-Course-
 ```
 
 2. Navigate to the specific folder you're interested in:
 ```bash
-cd AI-Course/Algorithm\ Implementation
+cd AI-Course/Algorithm_Implementation
 # or
-cd AI-Course/AI\ Games
+cd AI-Course/AI_Games
 # or
-cd AI-Course/AI\ Tools\ Exploration
+cd AI-Course/AI_Tools_Exploration
 ```
 
 3. Follow the instructions in each folder's README file for specific details about the contents.
