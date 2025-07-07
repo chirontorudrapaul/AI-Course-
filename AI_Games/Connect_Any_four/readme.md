@@ -61,6 +61,7 @@ Connect four discs horizontally, vertically, or diagonally to win
 Here are some visuals of the game:
 
 ### **Menu Screen**
+![Image](https://github.com/user-attachments/assets/709bcde2-0c8f-4edf-9fe0-d3ab9ebde5af)
 
 ### **Gameplay - Player's Turn**
 
