@@ -15,12 +15,12 @@ A classic Tic-Tac-Toe game implemented in Python using Tkinter, where you can pl
 ### **Run the Game**
 1. Navigate to the game folder:
 
-cd AI-Course/AI_Games/TicTacToe
+         cd AI-Course/AI_Games/TicTacToe
 
 
 2. Execute the Python script:
 
-python tic_tac_toe.py
+         python tic_tac_toe.py
 
 
 ---
