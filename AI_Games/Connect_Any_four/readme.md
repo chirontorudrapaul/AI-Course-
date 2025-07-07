@@ -64,12 +64,15 @@ Here are some visuals of the game:
 ![Image](https://github.com/user-attachments/assets/709bcde2-0c8f-4edf-9fe0-d3ab9ebde5af)
 
 ### **Gameplay - Player's Turn**
-
+![Image](https://github.com/user-attachments/assets/135adcdb-7959-480d-b872-0941472eee47)
 
 ### **Gameplay - AI's Turn**
-
+![Image](https://github.com/user-attachments/assets/5fc9d852-7689-48c9-bdd4-89b4f8ae57f4)
 
 ### **Winning Screen - Player / AI Wins**
+![Image](https://github.com/user-attachments/assets/04a8bf6c-9ffa-48ca-a6d2-5e6f6a5af2ab)
+### **Gameplay - After wining**
+![Image](https://github.com/user-attachments/assets/b22c5756-1ded-485a-afa2-1bc5f7116903)
 
 
 ## **v. Algorithm Used**
