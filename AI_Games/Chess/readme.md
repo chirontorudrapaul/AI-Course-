@@ -70,21 +70,16 @@ python chess_game.py
 ## **iv. Screenshots of the Game**
 
 Here are some visuals of the game:
-
 ### **Game Board**
-
-
+![Image](https://github.com/user-attachments/assets/59f9660e-68cf-4465-87e9-a7ec53b39e94)
 ### **Player's Turn (White)**
-
-
+![Image](https://github.com/user-attachments/assets/d53720c9-2e42-413b-897c-70371346e6ef)
 ### **Computer's Turn (Black)**
-
-
-### **Checkmate Screen**
-
-
-### **Stalemate Screen**
-
+![Image](https://github.com/user-attachments/assets/96861084-7547-4b09-a967-598667d0c33a)
+### **Checkmate **
+![Image](https://github.com/user-attachments/assets/e76e18f8-be57-42d5-bc20-45eaacf53738)
+### **After compelteting game (Computer/AI_Wins)Screen**
+![Image](https://github.com/user-attachments/assets/54b1b599-cba2-4819-a85d-a3ab0ae79dc9)
 
 ---
 
