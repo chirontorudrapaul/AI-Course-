@@ -1,6 +1,6 @@
-Here's a well-structured README.md file for your Tic-Tac-Toe game with Minimax AI:
 
-```markdown
+
+
 # **Tic-Tac-Toe with Minimax AI**
 
 A classic Tic-Tac-Toe game implemented in Python using Tkinter, where you can play against an AI opponent powered by the Minimax algorithm.
@@ -14,14 +14,14 @@ A classic Tic-Tac-Toe game implemented in Python using Tkinter, where you can pl
 
 ### **Run the Game**
 1. Navigate to the game folder:
-```sh
+
 cd AI-Course/AI_Games/TicTacToe
-```
+
 
 2. Execute the Python script:
-```sh
+
 python tic_tac_toe.py
-```
+
 
 ---
 
