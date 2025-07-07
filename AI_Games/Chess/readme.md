@@ -1,37 +1,37 @@
-
-
-
 # **Chess Game with Minimax AI**
 
 A classic Chess game implemented in Python using Pygame, where you can play against an AI opponent powered by the Minimax algorithm with Alpha-Beta pruning.
 
-
+---
 
 ## **i. How to Run the Game**
 
 ### **Navigate to the Game Folder**
-
+```sh
 cd AI-Course/AI_Games/Chess
-
+```
 
 ### **Run the Game**
 Execute the Python script:
-
+```sh
 python chess_game.py
+```
 
-
+---
 
 ## **ii. Software/Library/Framework Requirements**
 
 - **Python**: Version 3.8 or higher
 - **Pygame**: For rendering the game UI
-
+  ```sh
   pip install pygame
-
+  ```
 - **Python-Chess**: For chess logic and rules
-
+  ```sh
   pip install chess
+  ```
 
+---
 
 ## **iii. How to Play the Game**
 
@@ -81,6 +81,7 @@ Here are some visuals of the game:
 
 
 ### **Checkmate Screen**
+
 
 ### **Stalemate Screen**
 
@@ -137,3 +138,4 @@ The AI opponent in this game uses the **Minimax Algorithm with Alpha-Beta Prunin
 ---
 
 **Enjoy playing Chess against the AI!** ♟️
+```
