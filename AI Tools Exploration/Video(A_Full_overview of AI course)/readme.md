@@ -31,6 +31,7 @@
 **Tool Links & Tips**:  
 - InVideo AI Video Creation Guide: https://ai.invideo.io/  
 - ChatGPT (used for scripting): https://chat.openai.com/
+
   **Tips**
 - FreeConvert (for compressing large video files under 25 MB for GitHub upload): https://www.freeconvert.com/  
 
