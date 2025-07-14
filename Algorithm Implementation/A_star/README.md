@@ -45,7 +45,9 @@ The algorithm explores nodes with the lowest `f(n)` first, using a priority queu
 1.  **Pathfinding**: A\* Search is widely used in video games, robotics, and logistics for finding the shortest path between two points.
 2.  **Network Routing**: It is used in network routing protocols to find the optimal path for data transmission.
 3.  **Resource Allocation**: A\* Search can be used to optimize resource allocation in complex systems.
+   
 **SAMPLE input & Output**
+
 ![Image](https://github.com/user-attachments/assets/0a4ff9aa-4c64-4071-8870-a8047aaa3bfb)
 ## Advantages
 
