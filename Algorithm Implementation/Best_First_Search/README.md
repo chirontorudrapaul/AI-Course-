@@ -24,24 +24,6 @@ Unlike exhaustive search algorithms (like BFS or DFS), beam search trades comple
     *   Builds the graph as an adjacency list.
     *   Performs beam search and prints the result.
 
-## How to Compile and Run
-
-### Prerequisites
-
-*   A C++ compiler (e.g., **g++**) installed on your system.
-
-### Steps
-
-1.  Save the code as `beam_search.cpp`.
-2.  Open a terminal/command prompt and navigate to the directory where the file is saved.
-3.  Compile the code:
-    ```bash
-g++ beam_search.cpp -o beam_search
-```
-4.  Run the executable:
-    ```bash
-./beam_search
-```
 
 ## Sample Execution
 
