@@ -37,10 +37,10 @@ Through this comprehensive course, I gained knowledge and practical experience i
 - Version control with Git/GitHub
 
 ### iii. Duration of this Course
-**January to June** (6 months)
+**2025(January to June)** (6 months)
 
 ### iv. Supervisor's Information
-**Course Supervisor:** Razorshi Prozzwal Talukder
+**Course Supervisor:** **Razorshi Prozzwal Talukder**
 
 **Position:** Lecturer
 
