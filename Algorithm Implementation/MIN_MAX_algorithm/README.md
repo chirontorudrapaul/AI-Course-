@@ -22,24 +22,6 @@ The Minimax algorithm is a recursive algorithm used for decision making in games
     *   `h`: Height of the tree (number of levels from the root to a leaf).
     *   Returns the best value the maximizing player can guarantee.
 
-## How to Compile and Run
-
-### Prerequisites
-
-*   A C++ compiler (e.g., **g++**) installed on your system.
-
-### Steps
-
-1.  Save the code as `minimax.cpp`.
-2.  Open a terminal/command prompt and navigate to the directory where the file is saved.
-3.  Compile the code:
-    ```bash
-g++ minimax.cpp -o minimax
-```
-4.  Run the executable:
-    ```bash
-./minimax
-```
 
 ## Sample Execution
 
