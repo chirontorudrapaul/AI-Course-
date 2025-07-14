@@ -26,24 +26,6 @@ BFS works by:
     *   Builds the graph as an adjacency matrix.
     *   Calls `bfs()` and prints the result.
 
-## How to Compile and Run
-
-### Prerequisites
-
-*   A C++ compiler (e.g., **g++**) installed on your system.
-
-### Steps
-
-1.  Save the code as `bfs.cpp`.
-2.  Open a terminal/command prompt and navigate to the directory where the file is saved.
-3.  Compile the code:
-    ```bash
-g++ bfs.cpp -o bfs
-```
-4.  Run the executable:
-    ```bash
-./bfs
-```
 
 ## Sample Execution
 
