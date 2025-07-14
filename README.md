@@ -18,7 +18,17 @@ The AI Course is designed to provide students with:
 Through this comprehensive course, I gained knowledge and practical experience in:
 
 **Core AI Concepts:**
-- Search algorithms (BFS, DFS, A*,AO,Min-Max_algo,Alpha-beta_prunning etc.)
+- Search algorithms (- AO* Algorithm
+- A star
+- Alpha-Beta Pruning
+- BEAM search
+- Best_First_Search
+- Bidirectional Search
+- Breadth_First_Search (BFS)
+- Depth_First_Search
+- Depth_Limited_Search
+- Iterative_Deepening_DFS (IDDFS)
+- MINI_MAX_algorithm etc.)
 - Game theory and adversarial search
 - Machine learning fundamentals
 - Neural networks basics
