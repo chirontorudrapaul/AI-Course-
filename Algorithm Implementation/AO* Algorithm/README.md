@@ -24,6 +24,7 @@ Greedy Hill Climbing is a heuristic search algorithm used to find a peak or opti
 4. **Robotics**: It is used in robotics to optimize motion planning and control.
    
 **SAMPLE input & Output**
+
 ![Image](https://github.com/user-attachments/assets/98e18237-d1b9-4dd4-afe9-73965a7aed75)
 
 ## Advantages
