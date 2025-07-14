@@ -26,25 +26,6 @@ DLS works by:
     *   Builds the graph as an adjacency list.
     *   Calls `DLS()` and prints the result.
 
-## How to Compile and Run
-
-### Prerequisites
-
-*   A C++ compiler (e.g., **g++**) installed on your system.
-
-### Steps
-
-1.  Save the code as `dls.cpp`.
-2.  Open a terminal/command prompt and navigate to the directory where the file is saved.
-3.  Compile the code:
-    ```bash
-g++ dls.cpp -o dls
-```
-4.  Run the executable:
-    ```bash
-./dls
-```
-
 ## Sample Execution
 
 This example uses a graph with **6 nodes** and **7 edges**, with a depth limit of **3**.
