@@ -26,25 +26,6 @@ DFS works by:
     *   Builds the graph as an adjacency matrix.
     *   Calls `dfs()` and prints the result.
 
-## How to Compile and Run
-
-### Prerequisites
-
-*   A C++ compiler (e.g., **g++**) installed on your system.
-
-### Steps
-
-1.  Save the code as `dfs.cpp`.
-2.  Open a terminal/command prompt and navigate to the directory where the file is saved.
-3.  Compile the code:
-    ```bash
-g++ dfs.cpp -o dfs
-```
-4.  Run the executable:
-    ```bash
-./dfs
-```
-
 ## Sample Execution
 
 This example uses a graph with **6 vertices** and **7 edges**.
