@@ -28,24 +28,7 @@ IDDFS works by:
     *   Builds the graph as an adjacency list.
     *   Calls `IDS()` and prints the result.
 
-## How to Compile and Run
 
-### Prerequisites
-
-*   A C++ compiler (e.g., **g++**) installed on your system.
-
-### Steps
-
-1.  Save the code as `iddfs.cpp`.
-2.  Open a terminal/command prompt and navigate to the directory where the file is saved.
-3.  Compile the code:
-    ```bash
-g++ iddfs.cpp -o iddfs
-```
-4.  Run the executable:
-    ```bash
-./iddfs
-```
 
 ## Sample Execution
 
