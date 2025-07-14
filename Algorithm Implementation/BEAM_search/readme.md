@@ -24,6 +24,11 @@ This reduces memory usage and computation but may not guarantee the optimal path
 
 This makes it efficient for large or infinite search spaces but incomplete (may miss solutions if beam width is too small).
 
+## Sample Execution
+This example uses a graph with 6 nodes (0 to 5), 7 directed edges, and a beam width of 2.
+
+![Image](https://github.com/user-attachments/assets/ace4faa5-e470-47c6-8da0-2dd8a50804a8)
+
 
 ## Time Complexity
 - **Worst Case**: O(d * k * b * log(k * b)), where `d` is the depth of the search (levels explored), `k` is the beam width, and `b` is the average branching factor (neighbors per node). This accounts for generating (k * b) successors per level, sorting them (O((k*b) log (k*b))), and doing this for d levels.
@@ -68,33 +73,6 @@ This makes it efficient for large or infinite search spaces but incomplete (may 
    ```bash
    ./beam_search
    ```
-
-
-## Sample Execution
-This example uses a graph with 6 nodes (0 to 5), 7 directed edges, and a beam width of 2.
-
-![Image](https://github.com/user-attachments/assets/ace4faa5-e470-47c6-8da0-2dd8a50804a8)
-
-### Input
-```
-6 7
-10 8 5 7 2 0
-0 1
-0 2
-1 3
-2 3
-2 4
-4 5
-3 5
-0 5 2
-```
-
-### Output
-```
-Goal: 5
-Process returned 0 (0x0)   execution time : 44.090 s
-Press any key to continue.
-```
 
 ### Explanation
 - Nodes: 0 (start) to 5 (goal).
