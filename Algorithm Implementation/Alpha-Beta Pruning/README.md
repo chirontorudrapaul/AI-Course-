@@ -48,6 +48,7 @@ If `beta ≤ alpha` at any node, the current branch is pruned (no further evalua
 2.  **Decision Making**: It is used in decision-making systems to optimize the search for the best course of action.
 3.  **Resource Allocation**: Alpha-Beta pruning can be used to optimize resource allocation in complex systems.
 **SAMPLE input Output**
+
 ![Image](https://github.com/user-attachments/assets/d952fd79-6c9e-4393-9cb7-59b6db764c37)
 
 ## Advantages
