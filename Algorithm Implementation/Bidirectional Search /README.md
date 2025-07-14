@@ -26,24 +26,6 @@ Bidirectional search works by:
     *   Builds the graph as an adjacency list.
     *   Calls `bidirectional_search()` and prints the result.
 
-## How to Compile and Run
-
-### Prerequisites
-
-*   A C++ compiler (e.g., **g++**) installed on your system.
-
-### Steps
-
-1.  Save the code as `bidirectional_search.cpp`.
-2.  Open a terminal/command prompt and navigate to the directory where the file is saved.
-3.  Compile the code:
-    ```bash
-g++ bidirectional_search.cpp -o bidirectional_search
-```
-4.  Run the executable:
-    ```bash
-./bidirectional_search
-```
 
 ## Sample Execution
 
