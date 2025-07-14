@@ -48,29 +48,7 @@ g++ bfs.cpp -o bfs
 ## Sample Execution
 
 This example uses a graph with **6 vertices** and **7 edges**.
-
-### Input
-
-```
-6 7
-0 1
-0 2
-1 3
-2 3
-2 4
-3 5
-4 5
-0
-```
-
-### Output
-
-```
-0 1 2 3 4 5
-Process returned 0 (0x0)  execution time : 5.654 s
-Press any key to continue.
-```
-
+![Image](https://github.com/user-attachments/assets/501a46bc-47d5-43ed-8df7-69e0181ebdad)
 ### Explanation
 
 *   The algorithm starts at node **0** and explores all its neighbors at each depth level.
