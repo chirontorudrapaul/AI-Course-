@@ -22,7 +22,7 @@ Greedy Hill Climbing is a heuristic search algorithm used to find a peak or opti
 2. **Machine Learning**: It is used in machine learning to optimize model parameters and find the best configuration.
 3. **Computer Networks**: Greedy Hill Climbing is used in computer networks to optimize routing and resource allocation.
 4. **Robotics**: It is used in robotics to optimize motion planning and control.
-
+**SAMPLE input & Output**
 ![Image](https://github.com/user-attachments/assets/98e18237-d1b9-4dd4-afe9-73965a7aed75)
 
 ## Advantages
